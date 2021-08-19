@@ -1,3 +1,3 @@
 # pygame
 
-Learning pygame
+Learning pygame and github
